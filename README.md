@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Isaac-Zack.
-- 👀 I’m interested in programmation.
+- 👀 I’m interested in SAP and Programmation.
 - 🌱 I’m currently learning Front End.
 - 💞️ I’m looking to collaborate.
 - 📫 you can contact me by hotmail zack_garcia0@hotmail.com ...
